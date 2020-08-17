@@ -1,0 +1,2 @@
+# furnitureplugin
+Furniture plugin
